@@ -3,12 +3,12 @@
 
 int main()
 {
-    std::string name;
+    std::string urname;
 
     std::cout << "Введите ваше имя: ";
-    std::cin >> name;
+    std::cin >> urname;
 
-    std::cout << "Hello world from " << name << std::endl;
+    std::cout << "Hello world from " << urname << std::endl;
 
     return 0;
 }
